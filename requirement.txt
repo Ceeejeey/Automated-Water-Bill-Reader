@@ -1,0 +1,8 @@
+ultralytics==8.0.0  # YOLOv8 library
+torch>=2.0.0         # PyTorch (for model training)
+opencv-python-headless>=4.7.0.72  # For image processing
+tqdm>=4.64.0         # Progress bar visualization
+matplotlib>=3.7.1    # For plotting training results
+pandas>=2.0.0        # Data manipulation and analysis
+numpy>=1.24.0        # Numerical computations
+pyyaml>=6.0          # YAML file handling
